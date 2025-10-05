@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello World! I'm Muhammad Hammam Ghazi 👋
+
+![Hammam Ghazi](img/github-header-banner.png)
+
 
 <!--
 **HammamGhzi/HammamGhzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
