@@ -1,6 +1,6 @@
 ## Hello World! I'm Muhammad Hammam Ghazi 👋
 
-![Hammam Ghazi](img/github-header-banner.png)
+![Hammam Ghazi](github-header-banner.png)
 
 
 <!--
