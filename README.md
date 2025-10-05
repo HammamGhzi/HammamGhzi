@@ -25,15 +25,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="csharp logo"  />
   </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HammamGhzi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HammamGhzi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HammamGhzi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HammamGhzi&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HammamGhzi&icon=4&color=7)](https://visitcount.itsvg.in)
+
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HammamGhzi/HammamGhzi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HammamGhzi/HammamGhzi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HammamGhzi/HammamGhzi/output/pacman-contribution-graph.svg">
+</picture>
+
+##
+<img src="https://raw.githubusercontent.com/HammamGhzi/HammamGhzi/output/snake.svg" alt="Snake animation" />
+
+##
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
